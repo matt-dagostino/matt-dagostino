@@ -14,8 +14,8 @@
 - Currently pursuing a BASc in Software Engineering 💻
 - Constantly seeking innovative solutions to everyday problems 🔎
 - Billingual in French & English 🗺️
-- Currently working on [BridgesApp](https://github.com/BridgesApp/bridgesapp.github.io) 📱
-- I’m currently seeking an internship for the summer of 2023, this is [my resume](https://drive.google.com/file/d/1MXM1gmSA3I9kSDUgBG9VqtEbFZ7tkpvR/view?usp=sharing) 👨‍💻
+- Currently working on [Coming Soon!!](link) 📱
+- I’m currently seeking an internship for the summer of 2023, this is [my resume](https://drive.google.com/file/d/1fwghjj28_AwlODUbB8x_pPoHw9cG2wVd/view?usp=sharing) 👨‍💻
 
 <br>
 
@@ -32,8 +32,13 @@
     ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
     ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
     ![.net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+    ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+    ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![md](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![sql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-<br>   
+<br>
+
 
 - **Cloud Hosting**:
 
@@ -101,6 +106,6 @@ Thank you for taking the time to view my GitHub Profile!
 
 ------------------------
 <div align="center">
-Last edited on: 2022/11/22
+Last edited on: 2023/02/22
 </div>
 <br>
