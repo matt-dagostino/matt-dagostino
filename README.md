@@ -15,7 +15,7 @@
 - Constantly seeking innovative solutions to everyday problems 🔎
 - Billingual in French & English 🗺️
 - Currently working on [Coming Soon!!](link) 📱
-- I’m currently seeking an internship for the summer of 2023, this is [my resume](https://drive.google.com/file/d/1fwghjj28_AwlODUbB8x_pPoHw9cG2wVd/view?usp=sharing) 👨‍💻
+- I’m currently seeking an internship for the winter of 2024, this is [my resume](https://drive.google.com/file/d/1fwghjj28_AwlODUbB8x_pPoHw9cG2wVd/view?usp=sharing) 👨‍💻
 
 <br>
 
@@ -106,6 +106,6 @@ Thank you for taking the time to view my GitHub Profile!
 
 ------------------------
 <div align="center">
-Last edited on: 2023/02/22
+Last edited on: 2023/05/30
 </div>
 <br>
