@@ -14,7 +14,7 @@
 - Currently pursuing a BASc in Software Engineering 💻
 - Constantly seeking innovative solutions to everyday problems 🔎
 - Billingual in French & English 🗺️
-- Currently working on [Coming Soon!!](link) 📱
+- Currently working on [DriveStats](https://github.com/matt-dagostino/drive-stats) 📱
 - I’m currently seeking an internship for the winter of 2024, this is [my resume](https://drive.google.com/file/d/1fwghjj28_AwlODUbB8x_pPoHw9cG2wVd/view?usp=sharing) 👨‍💻
 
 <br>
@@ -36,6 +36,9 @@
     ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![md](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![sql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)
+![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
 
 <br>
 
@@ -106,6 +109,6 @@ Thank you for taking the time to view my GitHub Profile!
 
 ------------------------
 <div align="center">
-Last edited on: 2023/05/30
+Last edited on: 2023/07/12
 </div>
 <br>
