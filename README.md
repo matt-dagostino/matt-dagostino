@@ -15,7 +15,6 @@
 - Constantly seeking innovative solutions to everyday problems 🔎
 - Billingual in French & English 🗺️
 - Currently working on [DriveStats](https://github.com/matt-dagostino/drive-stats) 📱
-- I’m currently seeking an internship for the winter of 2024, this is [my resume](https://drive.google.com/file/d/1fwghjj28_AwlODUbB8x_pPoHw9cG2wVd/view?usp=sharing) 👨‍💻
 
 <br>
 
@@ -107,6 +106,6 @@ Thank you for taking the time to view my GitHub Profile!
 
 ------------------------
 <div align="center">
-Last edited on: 2023/07/12
+Last edited on: 2023/09/09
 </div>
 <br>
