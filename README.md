@@ -37,11 +37,11 @@
 	![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 	![Visual Basic](https://img.shields.io/badge/Visual%20Basic-7B0099?style=for-the-badge&logo=visual-studio&logoColor=white)
 
-- **Cloud Hosting**:
+- **Cloud Hosting**:  
 	![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
 	![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-- **Developer & Software Tools**:
+- **Developer & Software Tools**:  
 	![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 	![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 	![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -49,7 +49,7 @@
 	![Google Suite](https://img.shields.io/badge/Google%20Suite-4285F4?style=for-the-badge&logo=google&logoColor=white)
 	![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
-- **Libraries & Frameworks**:
+- **Libraries & Frameworks**:  
 	![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 	![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 	![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
