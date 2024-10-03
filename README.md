@@ -11,10 +11,10 @@
 <br>
 
 - Student at the University of Ottawa expected to graduate in 2026 👨‍🎓
+- Co-Director of [uOttaHack](https://uottahack.ca)
 - Currently pursuing a BASc in Software Engineering 💻
 - Constantly seeking innovative solutions to everyday problems 🔎
 - Billingual in French & English 🗺️
-- Currently working on [DriveStats](https://github.com/matt-dagostino/drive-stats) 📱
 
 <br>
 
@@ -111,6 +111,6 @@ Thank you for taking the time to view my GitHub Profile!
 
 ------------------------
 <div align="center">
-Last edited on: 2024/03/12
+Last edited on: 2024/09/12
 </div>
 <br>
