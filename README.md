@@ -8,7 +8,7 @@
 
 <br>
 
-- 👨🏻‍💻 Director at [**uOttaHack**](https://uottahack.ca), Canada’s 2nd largest hackathon  
+- 👨🏻‍💻 Advisor & Former Director at [**uOttaHack**](https://uottahack.ca), Canada’s 2nd largest hackathon  
 	- 🧑‍💻 Organized hackathons for 1,000+ participants  
 	- 🔥 Coordinated impactful projects with faculty and university partners  
 	- ✈️ Facilitated global partnerships with Universities in Mexico 🇲🇽 and Hong Kong 🇭🇰
@@ -103,6 +103,6 @@ Thank you for taking the time to view my GitHub Profile!
 
 ------------------------
 <div align="center">
-Last edited on: 2025/09/23
+Last edited on: 2026/07/03
 </div>
 <br>
