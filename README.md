@@ -2,6 +2,8 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Salut,+comment+ça+va?;Student+at+the+University+of+Ottawa;Software+Enginnering+Student"></a>
+  <br />
+  <a href="http://matteo-dagostino.vercel.app/" target="_blank"><b>🌐 View Portfolio: matteo-dagostino.vercel.app</b></a>
 </p>
 	
 ## 👋 **About me**
@@ -103,6 +105,6 @@ Thank you for taking the time to view my GitHub Profile!
 
 ------------------------
 <div align="center">
-Last edited on: 2026/07/03
+Last edited on: 2026/07/17
 </div>
 <br>
